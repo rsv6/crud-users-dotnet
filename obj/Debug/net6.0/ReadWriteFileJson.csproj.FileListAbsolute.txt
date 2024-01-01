@@ -1,0 +1,15 @@
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/bin/Debug/net6.0/ReadWriteFileJson
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/bin/Debug/net6.0/ReadWriteFileJson.deps.json
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/bin/Debug/net6.0/ReadWriteFileJson.runtimeconfig.json
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/bin/Debug/net6.0/ReadWriteFileJson.dll
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/bin/Debug/net6.0/ref/ReadWriteFileJson.dll
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/bin/Debug/net6.0/ReadWriteFileJson.pdb
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ReadWriteFileJson.csproj.AssemblyReference.cache
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ReadWriteFileJson.GeneratedMSBuildEditorConfig.editorconfig
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ReadWriteFileJson.AssemblyInfoInputs.cache
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ReadWriteFileJson.AssemblyInfo.cs
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ReadWriteFileJson.csproj.CoreCompileInputs.cache
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ReadWriteFileJson.dll
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ref/ReadWriteFileJson.dll
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ReadWriteFileJson.pdb
+/home/srvieira/Documentos/Users/rsv-hdd/Documentos/Development/Projetos/2024/Learning/Dotnet/ReadWriteFileJson/obj/Debug/net6.0/ReadWriteFileJson.genruntimeconfig.cache
